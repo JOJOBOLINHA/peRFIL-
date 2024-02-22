@@ -1,10 +1,11 @@
 :root{
- --cor-fundo:#101013;
- --cor-fundo:#000000;
- --cor-fundo:#4EBFE9;
- --cor-fundo:#817A7A;
+ --cor-fundo-cabecalho:#101013;
+ --cor-fundo-linear:#000000;
+ --cor-fundo-linear:#4EBFE9;
+ --cor-fundo-fotos:#817A7A;
  --cor-fontes:#FFFFFF;
 }
 .cabecalho{
-    background-color: var(--cor-fundo);
+    background-color: var(--cor-fundo-cabecalho);
+    color: var(--cor-fontes);
 }
