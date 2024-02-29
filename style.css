@@ -9,7 +9,7 @@
     background-color: var(--cor-fundo-cabecalho);
     color: var(--cor-fontes);
     display: flex;
-    justify-content: space-between;
+    justify-content: space-around;
  
 }
 .imagemcabecalho{
@@ -20,7 +20,7 @@
    
    
 .item-lista-cabecalho{
-display: inline-block;
-margin: 0 16px;
-
+    display: inline-block;
+    margin: 0 16px;
+    font-size: 24px;
 }
