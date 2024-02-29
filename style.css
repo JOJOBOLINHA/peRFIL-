@@ -9,8 +9,8 @@
     background-color: var(--cor-fundo-cabecalho);
     color: var(--cor-fontes);
     display: flex;
-    justify-content: space-between;
-    flex-direction: row;
+    justify-content: space-around;
+ 
 }
 .imagemcabecalho{
     width: 7%;
