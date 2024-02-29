@@ -9,11 +9,11 @@
     background-color: var(--cor-fundo-cabecalho);
     color: var(--cor-fontes);
     display: flex;
-    justify-content: space-around;
+    justify-content: space-between;
 }
 .imagemcabecalho{
     width: 8%;
-   padding-left: 2%
+  
 }
    
    
