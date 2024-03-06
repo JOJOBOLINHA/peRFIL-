@@ -39,7 +39,9 @@
 background-image: linear-gradient(#000000, #4EBFE9);
 
 }
-    .escola-titulo{
+.escola-titulo{
         color: var(--cor-fontes);
-    }
-     
+}
+.escola-texto{
+    color: var(--cor-fontes);
+}
