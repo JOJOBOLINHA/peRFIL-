@@ -13,6 +13,8 @@
  
 }
 .imagemcabecalho{
+    width: 10%;
+
     
   
 }
@@ -23,4 +25,5 @@
     display: inline-block;
     margin: 10px 16px;
     font-size: 24px;
+    margin-top: 20px;
 }
