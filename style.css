@@ -33,7 +33,8 @@
 }
 
 .escola-imagem {
-    width: 50%;
+    width: 45%;
+    margin-right: 10%;
 }
 .escola{
 background-image: linear-gradient(#000000, #4EBFE9);
