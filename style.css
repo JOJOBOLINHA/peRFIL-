@@ -30,13 +30,13 @@
     margin: 10px 16px;
     font-size: 24px;
     margin-top: 20px;
-    margin-left: 20%;
+    
 }
 
 .escola-imagem {
     width: 35%;
     margin-top: 10%;
-    margin-left: 15%;
+   margin-left: 20%;
 
 }
 .escola{
@@ -58,3 +58,4 @@ padding: 44px 0;
 .escola-texto{
 
     font-size:20px;
+    
