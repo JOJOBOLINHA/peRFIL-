@@ -66,9 +66,11 @@
 
     font-size: 20px;
 }
-.estudante{
+
+.estudante {
     background-color: #817A7A;
 }
+
 .estudante-imagem {
 
     width: 20%;
@@ -90,8 +92,9 @@
     grid-template-columns: 25% 25% 25% 25%;
 
 }
-.estudante-titulo{
-text-align: center;
-padding: 50px 0;
+
+.estudante-titulo {
+    text-align: center;
+    padding: 50px 0;
 
 }
